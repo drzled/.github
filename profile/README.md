@@ -2,7 +2,7 @@
 
 ## 🚀 Welcome to Drzl!
 
-Drzl enables effortless deployment of web apps anywhere, leveraging Docker and Traefik for seamless transitions and zero downtime. Compatible with your preferred hosting environments, Drzl works flawlessly across multiple hosts, supporting any containerized web applications.
+Drzl (pronounced `/dri·zl/` , like "drizzle") enables effortless deployment of web apps anywhere, leveraging Docker and Traefik for seamless transitions and zero downtime. Compatible with your preferred hosting environments, Drzl works flawlessly across multiple hosts, supporting any containerized web applications.
 
 ## 🌐 Find Us
 
